@@ -1,36 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>*</members>
-        <name>ApexClass</name>
+        <members>DATACLOUDTESTORG</members>
+        <name>DataKitObjectTemplate</name>
     </types>
     <types>
-        <members>*</members>
-        <name>ApexComponent</name>
+        <members>Data_connection_snowflake</members>
+        <name>DataPackageKitDefinition</name>
     </types>
     <types>
-        <members>*</members>
-        <name>ApexPage</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTestSuite</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>AuraDefinitionBundle</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>LightningComponentBundle</name>
-    </types>
-    <types>
-        <members>*</members>
-        <name>StaticResource</name>
+        <members>Data_connection_snowflake_1758871792222</members>
+        <name>DataPackageKitObject</name>
     </types>
     <version>64.0</version>
 </Package>
