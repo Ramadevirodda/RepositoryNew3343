@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>DATACLOUDTESTORG</members>
+        <members>DATACLOUDTESTORGQ</members>
         <name>DataKitObjectTemplate</name>
     </types>
     <types>
@@ -9,7 +9,7 @@
         <name>DataPackageKitDefinition</name>
     </types>
     <types>
-        <members>Data_connection_snowflake_1758871792222</members>
+        <members>Data_connection_snowflake_1760094065023</members>
         <name>DataPackageKitObject</name>
     </types>
     <version>64.0</version>
